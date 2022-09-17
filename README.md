@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VikasBhagure
 - 👀 I’m interested in ...data analytics
-- 🌱 I’m currently learning ...data analytics
+- 🌱 I’m currently workinf as ...data analytics
 - 💞️ I’m looking to collaborate on ...data science project
 - 📫 How to reach me ...vikasbhagure@gmail.com
 
